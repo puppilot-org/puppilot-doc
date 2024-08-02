@@ -10,7 +10,7 @@
 
 ### Windows
 
-Download [puppilot launcher for windows](https://github.com/yuudi/puppilot-launcher/releases/download/v0.1.1/puppilot-windows-x86_64.zip), extract it and double click to run
+Download [puppilot launcher for windows](https://s.puppilot.org/launcher/0.1.1/puppilot-windows-x86_64.zip), extract it and double click to run
 
 Make sure to close all existing chrome window before starting puppilot
 
